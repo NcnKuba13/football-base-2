@@ -17,3 +17,8 @@ skupioną wokół lig i klubów piłkarskich z całego świata. Głównym zadani
 przejrzysty i usystematyzowany sposób, dzięki przystępnemu interfejsowi. Daje ona też możliwość rozwiązania quizy opartego na wyżej wymienionej bazie.
 
 ### Zrzuty ekranu
+<img src="https://github.com/NcnKuba13/football-base-2/blob/main/screens/KLUBY.png" width="600">
+
+<img src="https://github.com/NcnKuba13/football-base-2/blob/main/screens/RANKINGI.png" width="600">
+
+<img src="https://github.com/NcnKuba13/football-base-2/blob/main/screens/GRY.png" width="600">
